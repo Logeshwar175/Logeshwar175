@@ -1,14 +1,11 @@
 Machine Learning and Flask Project
-This repository contains a web application developed using Flask and Machine Learning. The purpose of this project is to [briefly describe the purpose of your project, such as predicting house prices, classifying images, analyzing sentiment, etc.].
-
+This repository contains a web application developed using Flask and Machine Learning.
 Features
-Machine Learning Model: Implemented using [specify the ML framework or library you used, such as TensorFlow, Scikit-learn, etc.]. The model is trained to [describe the task it performs].
+Machine Learning Model: Implemented using [specify the ML framework or library you used, such as TensorFlow, Scikit-learn, etc.]. The model is trained to describe flowers .
 
 Flask Web Application: A user-friendly interface built with Flask that allows users to [explain what users can do, such as input data, receive predictions, visualize results, etc.].
 
 Interactive Visualizations: Data visualizations created using [mention any visualization libraries used, such as Matplotlib, Plotly, etc.] to help users understand the predictions and data better.
-
-RESTful API: Provides endpoints for [list the API endpoints if any, like for making predictions, fetching data, etc.].
 
 Installation
 To get started with this project, follow these steps:
